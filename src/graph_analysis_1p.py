@@ -7,7 +7,7 @@ import csv
 
 
 def write_mics_to_csv(mics, p, cutoff):
-    keys = ['x','y','weight']
+    keys = ['p1','p2','x','y','weight']
     mics_file_name = p + '_' + cutoff + '.csv'
     with open(mics_file_name,'w',encoding='utf8', newline='') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
@@ -16,7 +16,7 @@ def write_mics_to_csv(mics, p, cutoff):
     output_file.close()
 
 
-def performMIC(transposed_list, cutoff):
+def performMIC(transposed_list, cutoff, p):
     mic_scores=[]
     for counter1 in range(0, len(transposed_list)-1):
         for counter2 in range(counter1+1, len(transposed_list)):
@@ -24,9 +24,11 @@ def performMIC(transposed_list, cutoff):
             mine.compute_score(transposed_list[counter1], transposed_list[counter2])
             if (mine.mic() > float(cutoff)):
                 mic_score={}
-                mic_score['x']=counter1
-                mic_score['y']=counter2
-                mic_score['weight']=mine.mic()
+                mic_score['x'] = p+'_'+str(counter1+1)
+                mic_score['y'] = p+'_'+str(counter2+1)
+                mic_score['p1'] = p
+                mic_score['p2'] = p
+                mic_score['weight'] = format(mine.mic(), '.3f')
                 mic_scores.append(mic_score)
     return mic_scores
 
@@ -100,7 +102,7 @@ def run(file, cutoff):
 
     p_sequences_01 = create_01_sequences_gaps(file)
     p_sequences_01_T = perform_transpose(p_sequences_01)
-    mic_scores = performMIC(p_sequences_01_T, cutoff=cutoff)
+    mic_scores = performMIC(p_sequences_01_T, cutoff=cutoff, p=p)
     write_mics_to_csv(mics=mic_scores, p=p, cutoff=cutoff)
 
     print('done with run_01 for ', file, cutoff)
