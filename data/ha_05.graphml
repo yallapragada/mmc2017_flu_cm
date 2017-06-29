@@ -1,0 +1,769 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="protein" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="HA_7">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_156">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_188">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_237">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_213">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_398">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_348">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_246">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_282">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_229">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_418">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_3">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_159">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_125">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_54">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_106">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_13">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_202">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_126">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_144">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_558">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_288">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_66">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_313">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_90">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_61">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_531">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_211">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_236">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_349">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_71">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_519">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_6">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_16">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_328">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_89">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_516">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_100">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_301">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_101">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_524">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_231">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_259">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_113">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_341">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_123">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_104">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_228">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_339">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_200">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_145">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_292">
+      <data key="d0">HA</data>
+    </node>
+    <node id="HA_137">
+      <data key="d0">HA</data>
+    </node>
+    <edge source="HA_7" target="HA_313">
+      <data key="d1">0.5920000000000001</data>
+    </edge>
+    <edge source="HA_7" target="HA_6">
+      <data key="d1">0.609</data>
+    </edge>
+    <edge source="HA_7" target="HA_123">
+      <data key="d1">0.66</data>
+    </edge>
+    <edge source="HA_7" target="HA_229">
+      <data key="d1">0.523</data>
+    </edge>
+    <edge source="HA_7" target="HA_126">
+      <data key="d1">0.516</data>
+    </edge>
+    <edge source="HA_7" target="HA_516">
+      <data key="d1">0.522</data>
+    </edge>
+    <edge source="HA_7" target="HA_3">
+      <data key="d1">0.519</data>
+    </edge>
+    <edge source="HA_7" target="HA_125">
+      <data key="d1">0.514</data>
+    </edge>
+    <edge source="HA_7" target="HA_13">
+      <data key="d1">0.55</data>
+    </edge>
+    <edge source="HA_7" target="HA_54">
+      <data key="d1">0.604</data>
+    </edge>
+    <edge source="HA_7" target="HA_236">
+      <data key="d1">0.508</data>
+    </edge>
+    <edge source="HA_7" target="HA_524">
+      <data key="d1">0.584</data>
+    </edge>
+    <edge source="HA_156" target="HA_519">
+      <data key="d1">0.594</data>
+    </edge>
+    <edge source="HA_156" target="HA_228">
+      <data key="d1">0.637</data>
+    </edge>
+    <edge source="HA_156" target="HA_398">
+      <data key="d1">0.7</data>
+    </edge>
+    <edge source="HA_156" target="HA_144">
+      <data key="d1">0.595</data>
+    </edge>
+    <edge source="HA_156" target="HA_282">
+      <data key="d1">0.536</data>
+    </edge>
+    <edge source="HA_156" target="HA_558">
+      <data key="d1">0.57</data>
+    </edge>
+    <edge source="HA_156" target="HA_126">
+      <data key="d1">0.64</data>
+    </edge>
+    <edge source="HA_156" target="HA_339">
+      <data key="d1">0.6609999999999999</data>
+    </edge>
+    <edge source="HA_156" target="HA_418">
+      <data key="d1">0.602</data>
+    </edge>
+    <edge source="HA_156" target="HA_61">
+      <data key="d1">0.589</data>
+    </edge>
+    <edge source="HA_156" target="HA_125">
+      <data key="d1">0.631</data>
+    </edge>
+    <edge source="HA_156" target="HA_531">
+      <data key="d1">0.585</data>
+    </edge>
+    <edge source="HA_156" target="HA_236">
+      <data key="d1">0.61</data>
+    </edge>
+    <edge source="HA_156" target="HA_106">
+      <data key="d1">0.5529999999999999</data>
+    </edge>
+    <edge source="HA_156" target="HA_349">
+      <data key="d1">0.534</data>
+    </edge>
+    <edge source="HA_188" target="HA_71">
+      <data key="d1">0.513</data>
+    </edge>
+    <edge source="HA_188" target="HA_259">
+      <data key="d1">0.504</data>
+    </edge>
+    <edge source="HA_237" target="HA_100">
+      <data key="d1">0.536</data>
+    </edge>
+    <edge source="HA_237" target="HA_90">
+      <data key="d1">0.534</data>
+    </edge>
+    <edge source="HA_213" target="HA_6">
+      <data key="d1">0.504</data>
+    </edge>
+    <edge source="HA_213" target="HA_66">
+      <data key="d1">0.516</data>
+    </edge>
+    <edge source="HA_213" target="HA_123">
+      <data key="d1">0.557</data>
+    </edge>
+    <edge source="HA_213" target="HA_524">
+      <data key="d1">0.561</data>
+    </edge>
+    <edge source="HA_398" target="HA_519">
+      <data key="d1">0.5920000000000001</data>
+    </edge>
+    <edge source="HA_398" target="HA_228">
+      <data key="d1">0.6809999999999999</data>
+    </edge>
+    <edge source="HA_398" target="HA_123">
+      <data key="d1">0.522</data>
+    </edge>
+    <edge source="HA_398" target="HA_144">
+      <data key="d1">0.696</data>
+    </edge>
+    <edge source="HA_398" target="HA_418">
+      <data key="d1">0.732</data>
+    </edge>
+    <edge source="HA_398" target="HA_328">
+      <data key="d1">0.618</data>
+    </edge>
+    <edge source="HA_398" target="HA_558">
+      <data key="d1">0.696</data>
+    </edge>
+    <edge source="HA_398" target="HA_126">
+      <data key="d1">0.769</data>
+    </edge>
+    <edge source="HA_398" target="HA_339">
+      <data key="d1">0.722</data>
+    </edge>
+    <edge source="HA_398" target="HA_61">
+      <data key="d1">0.777</data>
+    </edge>
+    <edge source="HA_398" target="HA_125">
+      <data key="d1">0.757</data>
+    </edge>
+    <edge source="HA_398" target="HA_531">
+      <data key="d1">0.5870000000000001</data>
+    </edge>
+    <edge source="HA_398" target="HA_54">
+      <data key="d1">0.562</data>
+    </edge>
+    <edge source="HA_398" target="HA_236">
+      <data key="d1">0.745</data>
+    </edge>
+    <edge source="HA_398" target="HA_106">
+      <data key="d1">0.711</data>
+    </edge>
+    <edge source="HA_398" target="HA_349">
+      <data key="d1">0.644</data>
+    </edge>
+    <edge source="HA_348" target="HA_246">
+      <data key="d1">0.732</data>
+    </edge>
+    <edge source="HA_348" target="HA_288">
+      <data key="d1">0.8290000000000001</data>
+    </edge>
+    <edge source="HA_246" target="HA_288">
+      <data key="d1">0.7609999999999999</data>
+    </edge>
+    <edge source="HA_229" target="HA_123">
+      <data key="d1">0.5529999999999999</data>
+    </edge>
+    <edge source="HA_229" target="HA_524">
+      <data key="d1">0.517</data>
+    </edge>
+    <edge source="HA_418" target="HA_519">
+      <data key="d1">0.519</data>
+    </edge>
+    <edge source="HA_418" target="HA_228">
+      <data key="d1">0.708</data>
+    </edge>
+    <edge source="HA_418" target="HA_123">
+      <data key="d1">0.51</data>
+    </edge>
+    <edge source="HA_418" target="HA_144">
+      <data key="d1">0.649</data>
+    </edge>
+    <edge source="HA_418" target="HA_558">
+      <data key="d1">0.713</data>
+    </edge>
+    <edge source="HA_418" target="HA_328">
+      <data key="d1">0.6509999999999999</data>
+    </edge>
+    <edge source="HA_418" target="HA_126">
+      <data key="d1">0.7879999999999999</data>
+    </edge>
+    <edge source="HA_418" target="HA_339">
+      <data key="d1">0.615</data>
+    </edge>
+    <edge source="HA_418" target="HA_61">
+      <data key="d1">0.652</data>
+    </edge>
+    <edge source="HA_418" target="HA_125">
+      <data key="d1">0.777</data>
+    </edge>
+    <edge source="HA_418" target="HA_531">
+      <data key="d1">0.521</data>
+    </edge>
+    <edge source="HA_418" target="HA_54">
+      <data key="d1">0.569</data>
+    </edge>
+    <edge source="HA_418" target="HA_236">
+      <data key="d1">0.769</data>
+    </edge>
+    <edge source="HA_418" target="HA_106">
+      <data key="d1">0.608</data>
+    </edge>
+    <edge source="HA_418" target="HA_349">
+      <data key="d1">0.688</data>
+    </edge>
+    <edge source="HA_3" target="HA_6">
+      <data key="d1">0.529</data>
+    </edge>
+    <edge source="HA_3" target="HA_123">
+      <data key="d1">0.552</data>
+    </edge>
+    <edge source="HA_3" target="HA_524">
+      <data key="d1">0.517</data>
+    </edge>
+    <edge source="HA_159" target="HA_101">
+      <data key="d1">0.569</data>
+    </edge>
+    <edge source="HA_125" target="HA_558">
+      <data key="d1">0.731</data>
+    </edge>
+    <edge source="HA_125" target="HA_519">
+      <data key="d1">0.508</data>
+    </edge>
+    <edge source="HA_125" target="HA_228">
+      <data key="d1">0.728</data>
+    </edge>
+    <edge source="HA_125" target="HA_123">
+      <data key="d1">0.534</data>
+    </edge>
+    <edge source="HA_125" target="HA_144">
+      <data key="d1">0.665</data>
+    </edge>
+    <edge source="HA_125" target="HA_328">
+      <data key="d1">0.6559999999999999</data>
+    </edge>
+    <edge source="HA_125" target="HA_236">
+      <data key="d1">0.7859999999999999</data>
+    </edge>
+    <edge source="HA_125" target="HA_126">
+      <data key="d1">0.813</data>
+    </edge>
+    <edge source="HA_125" target="HA_339">
+      <data key="d1">0.639</data>
+    </edge>
+    <edge source="HA_125" target="HA_61">
+      <data key="d1">0.675</data>
+    </edge>
+    <edge source="HA_125" target="HA_531">
+      <data key="d1">0.52</data>
+    </edge>
+    <edge source="HA_125" target="HA_54">
+      <data key="d1">0.5820000000000001</data>
+    </edge>
+    <edge source="HA_125" target="HA_137">
+      <data key="d1">0.505</data>
+    </edge>
+    <edge source="HA_125" target="HA_106">
+      <data key="d1">0.62</data>
+    </edge>
+    <edge source="HA_125" target="HA_349">
+      <data key="d1">0.662</data>
+    </edge>
+    <edge source="HA_54" target="HA_313">
+      <data key="d1">0.565</data>
+    </edge>
+    <edge source="HA_54" target="HA_6">
+      <data key="d1">0.535</data>
+    </edge>
+    <edge source="HA_54" target="HA_123">
+      <data key="d1">0.627</data>
+    </edge>
+    <edge source="HA_54" target="HA_228">
+      <data key="d1">0.529</data>
+    </edge>
+    <edge source="HA_54" target="HA_558">
+      <data key="d1">0.525</data>
+    </edge>
+    <edge source="HA_54" target="HA_126">
+      <data key="d1">0.589</data>
+    </edge>
+    <edge source="HA_54" target="HA_61">
+      <data key="d1">0.512</data>
+    </edge>
+    <edge source="HA_54" target="HA_524">
+      <data key="d1">0.5529999999999999</data>
+    </edge>
+    <edge source="HA_54" target="HA_236">
+      <data key="d1">0.58</data>
+    </edge>
+    <edge source="HA_54" target="HA_349">
+      <data key="d1">0.503</data>
+    </edge>
+    <edge source="HA_106" target="HA_228">
+      <data key="d1">0.562</data>
+    </edge>
+    <edge source="HA_106" target="HA_144">
+      <data key="d1">0.585</data>
+    </edge>
+    <edge source="HA_106" target="HA_328">
+      <data key="d1">0.515</data>
+    </edge>
+    <edge source="HA_106" target="HA_558">
+      <data key="d1">0.5720000000000001</data>
+    </edge>
+    <edge source="HA_106" target="HA_126">
+      <data key="d1">0.624</data>
+    </edge>
+    <edge source="HA_106" target="HA_339">
+      <data key="d1">0.579</data>
+    </edge>
+    <edge source="HA_106" target="HA_61">
+      <data key="d1">0.623</data>
+    </edge>
+    <edge source="HA_106" target="HA_236">
+      <data key="d1">0.607</data>
+    </edge>
+    <edge source="HA_106" target="HA_349">
+      <data key="d1">0.539</data>
+    </edge>
+    <edge source="HA_13" target="HA_313">
+      <data key="d1">0.5760000000000001</data>
+    </edge>
+    <edge source="HA_13" target="HA_516">
+      <data key="d1">0.506</data>
+    </edge>
+    <edge source="HA_13" target="HA_6">
+      <data key="d1">0.5579999999999999</data>
+    </edge>
+    <edge source="HA_13" target="HA_123">
+      <data key="d1">0.6409999999999999</data>
+    </edge>
+    <edge source="HA_13" target="HA_524">
+      <data key="d1">0.586</data>
+    </edge>
+    <edge source="HA_202" target="HA_292">
+      <data key="d1">0.53</data>
+    </edge>
+    <edge source="HA_202" target="HA_100">
+      <data key="d1">0.529</data>
+    </edge>
+    <edge source="HA_202" target="HA_90">
+      <data key="d1">0.521</data>
+    </edge>
+    <edge source="HA_202" target="HA_145">
+      <data key="d1">0.5710000000000001</data>
+    </edge>
+    <edge source="HA_126" target="HA_558">
+      <data key="d1">0.7390000000000001</data>
+    </edge>
+    <edge source="HA_126" target="HA_519">
+      <data key="d1">0.529</data>
+    </edge>
+    <edge source="HA_126" target="HA_123">
+      <data key="d1">0.5429999999999999</data>
+    </edge>
+    <edge source="HA_126" target="HA_144">
+      <data key="d1">0.695</data>
+    </edge>
+    <edge source="HA_126" target="HA_328">
+      <data key="d1">0.6579999999999999</data>
+    </edge>
+    <edge source="HA_126" target="HA_236">
+      <data key="d1">0.828</data>
+    </edge>
+    <edge source="HA_126" target="HA_228">
+      <data key="d1">0.731</data>
+    </edge>
+    <edge source="HA_126" target="HA_339">
+      <data key="d1">0.659</data>
+    </edge>
+    <edge source="HA_126" target="HA_61">
+      <data key="d1">0.6829999999999999</data>
+    </edge>
+    <edge source="HA_126" target="HA_531">
+      <data key="d1">0.542</data>
+    </edge>
+    <edge source="HA_126" target="HA_137">
+      <data key="d1">0.506</data>
+    </edge>
+    <edge source="HA_126" target="HA_349">
+      <data key="d1">0.679</data>
+    </edge>
+    <edge source="HA_144" target="HA_228">
+      <data key="d1">0.605</data>
+    </edge>
+    <edge source="HA_144" target="HA_328">
+      <data key="d1">0.547</data>
+    </edge>
+    <edge source="HA_144" target="HA_558">
+      <data key="d1">0.609</data>
+    </edge>
+    <edge source="HA_144" target="HA_339">
+      <data key="d1">0.613</data>
+    </edge>
+    <edge source="HA_144" target="HA_61">
+      <data key="d1">0.629</data>
+    </edge>
+    <edge source="HA_144" target="HA_531">
+      <data key="d1">0.508</data>
+    </edge>
+    <edge source="HA_144" target="HA_236">
+      <data key="d1">0.6809999999999999</data>
+    </edge>
+    <edge source="HA_144" target="HA_349">
+      <data key="d1">0.564</data>
+    </edge>
+    <edge source="HA_558" target="HA_228">
+      <data key="d1">0.662</data>
+    </edge>
+    <edge source="HA_558" target="HA_328">
+      <data key="d1">0.598</data>
+    </edge>
+    <edge source="HA_558" target="HA_236">
+      <data key="d1">0.726</data>
+    </edge>
+    <edge source="HA_558" target="HA_339">
+      <data key="d1">0.586</data>
+    </edge>
+    <edge source="HA_558" target="HA_61">
+      <data key="d1">0.625</data>
+    </edge>
+    <edge source="HA_558" target="HA_137">
+      <data key="d1">0.509</data>
+    </edge>
+    <edge source="HA_558" target="HA_349">
+      <data key="d1">0.595</data>
+    </edge>
+    <edge source="HA_66" target="HA_123">
+      <data key="d1">0.517</data>
+    </edge>
+    <edge source="HA_313" target="HA_516">
+      <data key="d1">0.568</data>
+    </edge>
+    <edge source="HA_313" target="HA_6">
+      <data key="d1">0.607</data>
+    </edge>
+    <edge source="HA_313" target="HA_16">
+      <data key="d1">0.513</data>
+    </edge>
+    <edge source="HA_313" target="HA_123">
+      <data key="d1">0.675</data>
+    </edge>
+    <edge source="HA_313" target="HA_524">
+      <data key="d1">0.603</data>
+    </edge>
+    <edge source="HA_90" target="HA_145">
+      <data key="d1">0.506</data>
+    </edge>
+    <edge source="HA_61" target="HA_519">
+      <data key="d1">0.536</data>
+    </edge>
+    <edge source="HA_61" target="HA_228">
+      <data key="d1">0.619</data>
+    </edge>
+    <edge source="HA_61" target="HA_328">
+      <data key="d1">0.5589999999999999</data>
+    </edge>
+    <edge source="HA_61" target="HA_339">
+      <data key="d1">0.613</data>
+    </edge>
+    <edge source="HA_61" target="HA_531">
+      <data key="d1">0.539</data>
+    </edge>
+    <edge source="HA_61" target="HA_236">
+      <data key="d1">0.659</data>
+    </edge>
+    <edge source="HA_61" target="HA_349">
+      <data key="d1">0.5820000000000001</data>
+    </edge>
+    <edge source="HA_531" target="HA_519">
+      <data key="d1">0.619</data>
+    </edge>
+    <edge source="HA_531" target="HA_228">
+      <data key="d1">0.5379999999999999</data>
+    </edge>
+    <edge source="HA_531" target="HA_123">
+      <data key="d1">0.509</data>
+    </edge>
+    <edge source="HA_531" target="HA_339">
+      <data key="d1">0.649</data>
+    </edge>
+    <edge source="HA_531" target="HA_236">
+      <data key="d1">0.53</data>
+    </edge>
+    <edge source="HA_211" target="HA_100">
+      <data key="d1">0.521</data>
+    </edge>
+    <edge source="HA_236" target="HA_519">
+      <data key="d1">0.512</data>
+    </edge>
+    <edge source="HA_236" target="HA_228">
+      <data key="d1">0.715</data>
+    </edge>
+    <edge source="HA_236" target="HA_123">
+      <data key="d1">0.532</data>
+    </edge>
+    <edge source="HA_236" target="HA_328">
+      <data key="d1">0.643</data>
+    </edge>
+    <edge source="HA_236" target="HA_339">
+      <data key="d1">0.626</data>
+    </edge>
+    <edge source="HA_236" target="HA_349">
+      <data key="d1">0.67</data>
+    </edge>
+    <edge source="HA_349" target="HA_519">
+      <data key="d1">0.555</data>
+    </edge>
+    <edge source="HA_349" target="HA_228">
+      <data key="d1">0.605</data>
+    </edge>
+    <edge source="HA_349" target="HA_328">
+      <data key="d1">0.568</data>
+    </edge>
+    <edge source="HA_349" target="HA_339">
+      <data key="d1">0.561</data>
+    </edge>
+    <edge source="HA_71" target="HA_259">
+      <data key="d1">0.6559999999999999</data>
+    </edge>
+    <edge source="HA_519" target="HA_339">
+      <data key="d1">0.653</data>
+    </edge>
+    <edge source="HA_519" target="HA_228">
+      <data key="d1">0.521</data>
+    </edge>
+    <edge source="HA_6" target="HA_516">
+      <data key="d1">0.539</data>
+    </edge>
+    <edge source="HA_6" target="HA_16">
+      <data key="d1">0.528</data>
+    </edge>
+    <edge source="HA_6" target="HA_123">
+      <data key="d1">0.679</data>
+    </edge>
+    <edge source="HA_6" target="HA_524">
+      <data key="d1">0.614</data>
+    </edge>
+    <edge source="HA_16" target="HA_123">
+      <data key="d1">0.575</data>
+    </edge>
+    <edge source="HA_16" target="HA_524">
+      <data key="d1">0.539</data>
+    </edge>
+    <edge source="HA_328" target="HA_228">
+      <data key="d1">0.685</data>
+    </edge>
+    <edge source="HA_328" target="HA_339">
+      <data key="d1">0.52</data>
+    </edge>
+    <edge source="HA_89" target="HA_101">
+      <data key="d1">0.615</data>
+    </edge>
+    <edge source="HA_516" target="HA_123">
+      <data key="d1">0.634</data>
+    </edge>
+    <edge source="HA_516" target="HA_524">
+      <data key="d1">0.5820000000000001</data>
+    </edge>
+    <edge source="HA_100" target="HA_292">
+      <data key="d1">0.5579999999999999</data>
+    </edge>
+    <edge source="HA_100" target="HA_145">
+      <data key="d1">0.506</data>
+    </edge>
+    <edge source="HA_100" target="HA_113">
+      <data key="d1">0.527</data>
+    </edge>
+    <edge source="HA_301" target="HA_231">
+      <data key="d1">0.519</data>
+    </edge>
+    <edge source="HA_524" target="HA_228">
+      <data key="d1">0.503</data>
+    </edge>
+    <edge source="HA_524" target="HA_123">
+      <data key="d1">0.682</data>
+    </edge>
+    <edge source="HA_231" target="HA_104">
+      <data key="d1">0.536</data>
+    </edge>
+    <edge source="HA_113" target="HA_292">
+      <data key="d1">0.551</data>
+    </edge>
+    <edge source="HA_341" target="HA_200">
+      <data key="d1">0.672</data>
+    </edge>
+    <edge source="HA_123" target="HA_228">
+      <data key="d1">0.551</data>
+    </edge>
+    <edge source="HA_228" target="HA_339">
+      <data key="d1">0.5660000000000001</data>
+    </edge>
+    <edge source="HA_145" target="HA_292">
+      <data key="d1">0.578</data>
+    </edge>
+  </graph>
+</graphml>

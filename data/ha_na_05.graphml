@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="protein" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="NA_44">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_274">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_157">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_432">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_242">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_370">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_256">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_32">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_48">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_291">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_377">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_302">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_344">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_442">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_430">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_410">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_203">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_352">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_267">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_34">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_510">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_88">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_306">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_452">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_134">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_58">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_461">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_325">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_493">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_106">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_308">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_360">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_42">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_437">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_400">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_105">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_287">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_324">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_196">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_509">
+      <data key="d0">NA</data>
+    </node>
+    <node id="HA_217">
+      <data key="d0">HA</data>
+    </node>
+    <node id="NA_519">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_236">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_347">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_440">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_419">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_93">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_282">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_334">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_87">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_51">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_108">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_241">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_204">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_250">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_90">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_441">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_364">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_92">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_307">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_107">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_489">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_223">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_161">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_26">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_394">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_429">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_301">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_420">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_384">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_25">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_343">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_403">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_247">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_361">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_211">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_465">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_407">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_312">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_353">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_269">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_356">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_348">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_207">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_350">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_43">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_523">
+      <data key="d0">NA</data>
+    </node>
+    <node id="NA_29">
+      <data key="d0">NA</data>
+    </node>
+    <edge source="NA_44" target="HA_217">
+      <data key="d1">0.532</data>
+    </edge>
+    <edge source="NA_274" target="HA_217">
+      <data key="d1">0.552</data>
+    </edge>
+    <edge source="NA_157" target="HA_217">
+      <data key="d1">0.521</data>
+    </edge>
+    <edge source="NA_432" target="HA_217">
+      <data key="d1">0.556</data>
+    </edge>
+    <edge source="NA_242" target="HA_217">
+      <data key="d1">0.5479999999999999</data>
+    </edge>
+    <edge source="NA_370" target="HA_217">
+      <data key="d1">0.5529999999999999</data>
+    </edge>
+    <edge source="NA_256" target="HA_217">
+      <data key="d1">0.5670000000000001</data>
+    </edge>
+    <edge source="NA_32" target="HA_217">
+      <data key="d1">0.506</data>
+    </edge>
+    <edge source="NA_48" target="HA_217">
+      <data key="d1">0.552</data>
+    </edge>
+    <edge source="NA_291" target="HA_217">
+      <data key="d1">0.506</data>
+    </edge>
+    <edge source="NA_377" target="HA_217">
+      <data key="d1">0.529</data>
+    </edge>
+    <edge source="NA_302" target="HA_217">
+      <data key="d1">0.512</data>
+    </edge>
+    <edge source="NA_344" target="HA_217">
+      <data key="d1">0.501</data>
+    </edge>
+    <edge source="NA_442" target="HA_217">
+      <data key="d1">0.53</data>
+    </edge>
+    <edge source="NA_430" target="HA_217">
+      <data key="d1">0.575</data>
+    </edge>
+    <edge source="NA_410" target="HA_217">
+      <data key="d1">0.547</data>
+    </edge>
+    <edge source="NA_203" target="HA_217">
+      <data key="d1">0.504</data>
+    </edge>
+    <edge source="NA_352" target="HA_217">
+      <data key="d1">0.5</data>
+    </edge>
+    <edge source="NA_267" target="HA_217">
+      <data key="d1">0.5539999999999999</data>
+    </edge>
+    <edge source="NA_34" target="HA_217">
+      <data key="d1">0.604</data>
+    </edge>
+    <edge source="NA_510" target="HA_217">
+      <data key="d1">0.545</data>
+    </edge>
+    <edge source="NA_88" target="HA_217">
+      <data key="d1">0.535</data>
+    </edge>
+    <edge source="NA_306" target="HA_217">
+      <data key="d1">0.55</data>
+    </edge>
+    <edge source="NA_452" target="HA_217">
+      <data key="d1">0.5589999999999999</data>
+    </edge>
+    <edge source="NA_134" target="HA_217">
+      <data key="d1">0.585</data>
+    </edge>
+    <edge source="NA_58" target="HA_217">
+      <data key="d1">0.527</data>
+    </edge>
+    <edge source="NA_461" target="HA_217">
+      <data key="d1">0.5589999999999999</data>
+    </edge>
+    <edge source="NA_325" target="HA_217">
+      <data key="d1">0.505</data>
+    </edge>
+    <edge source="NA_493" target="HA_217">
+      <data key="d1">0.542</data>
+    </edge>
+    <edge source="NA_106" target="HA_217">
+      <data key="d1">0.506</data>
+    </edge>
+    <edge source="NA_308" target="HA_217">
+      <data key="d1">0.547</data>
+    </edge>
+    <edge source="NA_360" target="HA_217">
+      <data key="d1">0.541</data>
+    </edge>
+    <edge source="NA_42" target="HA_217">
+      <data key="d1">0.5429999999999999</data>
+    </edge>
+    <edge source="NA_437" target="HA_217">
+      <data key="d1">0.5589999999999999</data>
+    </edge>
+    <edge source="NA_400" target="HA_217">
+      <data key="d1">0.552</data>
+    </edge>
+    <edge source="NA_105" target="HA_217">
+      <data key="d1">0.5429999999999999</data>
+    </edge>
+    <edge source="NA_287" target="HA_217">
+      <data key="d1">0.513</data>
+    </edge>
+    <edge source="NA_324" target="HA_217">
+      <data key="d1">0.527</data>
+    </edge>
+    <edge source="NA_196" target="HA_217">
+      <data key="d1">0.547</data>
+    </edge>
+    <edge source="NA_509" target="HA_217">
+      <data key="d1">0.5429999999999999</data>
+    </edge>
+    <edge source="HA_217" target="NA_247">
+      <data key="d1">0.55</data>
+    </edge>
+    <edge source="HA_217" target="NA_519">
+      <data key="d1">0.503</data>
+    </edge>
+    <edge source="HA_217" target="NA_236">
+      <data key="d1">0.527</data>
+    </edge>
+    <edge source="HA_217" target="NA_347">
+      <data key="d1">0.525</data>
+    </edge>
+    <edge source="HA_217" target="NA_440">
+      <data key="d1">0.556</data>
+    </edge>
+    <edge source="HA_217" target="NA_419">
+      <data key="d1">0.552</data>
+    </edge>
+    <edge source="HA_217" target="NA_93">
+      <data key="d1">0.595</data>
+    </edge>
+    <edge source="HA_217" target="NA_282">
+      <data key="d1">0.541</data>
+    </edge>
+    <edge source="HA_217" target="NA_334">
+      <data key="d1">0.5539999999999999</data>
+    </edge>
+    <edge source="HA_217" target="NA_87">
+      <data key="d1">0.555</data>
+    </edge>
+    <edge source="HA_217" target="NA_51">
+      <data key="d1">0.541</data>
+    </edge>
+    <edge source="HA_217" target="NA_108">
+      <data key="d1">0.515</data>
+    </edge>
+    <edge source="HA_217" target="NA_241">
+      <data key="d1">0.502</data>
+    </edge>
+    <edge source="HA_217" target="NA_204">
+      <data key="d1">0.504</data>
+    </edge>
+    <edge source="HA_217" target="NA_250">
+      <data key="d1">0.537</data>
+    </edge>
+    <edge source="HA_217" target="NA_90">
+      <data key="d1">0.528</data>
+    </edge>
+    <edge source="HA_217" target="NA_441">
+      <data key="d1">0.527</data>
+    </edge>
+    <edge source="HA_217" target="NA_364">
+      <data key="d1">0.502</data>
+    </edge>
+    <edge source="HA_217" target="NA_92">
+      <data key="d1">0.514</data>
+    </edge>
+    <edge source="HA_217" target="NA_307">
+      <data key="d1">0.552</data>
+    </edge>
+    <edge source="HA_217" target="NA_107">
+      <data key="d1">0.552</data>
+    </edge>
+    <edge source="HA_217" target="NA_489">
+      <data key="d1">0.552</data>
+    </edge>
+    <edge source="HA_217" target="NA_223">
+      <data key="d1">0.5589999999999999</data>
+    </edge>
+    <edge source="HA_217" target="NA_161">
+      <data key="d1">0.5579999999999999</data>
+    </edge>
+    <edge source="HA_217" target="NA_26">
+      <data key="d1">0.602</data>
+    </edge>
+    <edge source="HA_217" target="NA_394">
+      <data key="d1">0.531</data>
+    </edge>
+    <edge source="HA_217" target="NA_429">
+      <data key="d1">0.54</data>
+    </edge>
+    <edge source="HA_217" target="NA_301">
+      <data key="d1">0.55</data>
+    </edge>
+    <edge source="HA_217" target="NA_420">
+      <data key="d1">0.55</data>
+    </edge>
+    <edge source="HA_217" target="NA_384">
+      <data key="d1">0.527</data>
+    </edge>
+    <edge source="HA_217" target="NA_25">
+      <data key="d1">0.5589999999999999</data>
+    </edge>
+    <edge source="HA_217" target="NA_343">
+      <data key="d1">0.5429999999999999</data>
+    </edge>
+    <edge source="HA_217" target="NA_403">
+      <data key="d1">0.55</data>
+    </edge>
+    <edge source="HA_217" target="NA_523">
+      <data key="d1">0.5379999999999999</data>
+    </edge>
+    <edge source="HA_217" target="NA_361">
+      <data key="d1">0.5429999999999999</data>
+    </edge>
+    <edge source="HA_217" target="NA_211">
+      <data key="d1">0.506</data>
+    </edge>
+    <edge source="HA_217" target="NA_465">
+      <data key="d1">0.539</data>
+    </edge>
+    <edge source="HA_217" target="NA_407">
+      <data key="d1">0.55</data>
+    </edge>
+    <edge source="HA_217" target="NA_312">
+      <data key="d1">0.556</data>
+    </edge>
+    <edge source="HA_217" target="NA_353">
+      <data key="d1">0.523</data>
+    </edge>
+    <edge source="HA_217" target="NA_269">
+      <data key="d1">0.551</data>
+    </edge>
+    <edge source="HA_217" target="NA_356">
+      <data key="d1">0.502</data>
+    </edge>
+    <edge source="HA_217" target="NA_348">
+      <data key="d1">0.5379999999999999</data>
+    </edge>
+    <edge source="HA_217" target="NA_207">
+      <data key="d1">0.519</data>
+    </edge>
+    <edge source="HA_217" target="NA_350">
+      <data key="d1">0.532</data>
+    </edge>
+    <edge source="HA_217" target="NA_43">
+      <data key="d1">0.521</data>
+    </edge>
+    <edge source="HA_217" target="NA_29">
+      <data key="d1">0.544</data>
+    </edge>
+  </graph>
+</graphml>
